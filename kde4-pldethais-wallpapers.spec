@@ -10,6 +10,7 @@ Source0:	%{name}.tar.gz
 # Source0-md5:	a302f918cd427a8a20881ede1cd84742
 URL:		http://livecd.pld-linux.org
 BuildRequires:	rpmbuild(macros) >= 1.293
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
