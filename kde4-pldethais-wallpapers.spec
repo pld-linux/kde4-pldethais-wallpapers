@@ -3,7 +3,7 @@ Summary:	PLDEthais KDE4 wallpapers
 Summary(pl.UTF-8):	Tapety do PLDEthais do KDE4
 Name:		kde4-pldethais-wallpapers
 Version:	0
-Release:	1
+Release:	2
 License:	LGPLv3
 Group:		X11/Libraries
 Source0:	%{name}.tar.gz
